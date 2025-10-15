@@ -1,0 +1,31 @@
+body {
+    background-color: #1B1C21;
+}
+
+.logonome {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+.cabeçalho {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 20px; 
+}
