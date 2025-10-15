@@ -2,6 +2,8 @@ body {
     background-color: #1B1C21;
 }
 
+/*aqui estou definindo o Cabeçalho e Menu*/
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -36,3 +38,4 @@ body {
     justify-content: right;
     gap: 60px; 
 }
+
