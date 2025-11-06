@@ -43,7 +43,22 @@ body {
 
 /*aqui estou definindo os textos da Página 1*/
 
+.Parte1 {
 
+}
 
+footer {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
 
 
