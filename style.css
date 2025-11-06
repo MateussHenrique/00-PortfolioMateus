@@ -2,6 +2,8 @@ body {
     background-color: #1B1C21;
 }
 
+/*acima defini a cor de toda a página*/
+
 /*aqui estou definindo o Cabeçalho e Menu*/
 
 .header {
@@ -38,4 +40,10 @@ body {
     justify-content: right;
     gap: 60px; 
 }
+
+/*aqui estou definindo os textos da Página 1*/
+
+
+
+
 
